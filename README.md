@@ -11,6 +11,6 @@ The dataset can be found [here](https://www.kaggle.com/zalando-research/fashionm
 
 The notebook contains the implementation of two algorithm from scratch. First is the Binary Relevance Classifier and second is the Classifier Chains. 
 
-Click [here](https://htmlpreview.github.io/?) to have HTML preview.
+Click [here](https://htmlpreview.github.io/?https://github.com/ArshdeepSingh308/Machine_Learning-Classifier-/blob/master/Binary_Relevance_Classifier_Chains.html) to have HTML preview.
 
 
